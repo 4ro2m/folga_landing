@@ -1,0 +1,25 @@
+{
+  "name": "folga",
+  "version": "0.0.1",
+  "description": "Landing page for Folga LZ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4ro2m/folga_landing.git"
+  },
+  "author": "4ro2m",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4ro2m/folga_landing/issues"
+  },
+  "homepage": "https://github.com/4ro2m/folga_landing#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.1.1",
+    "tether": "^1.4.0"
+  }
+}
